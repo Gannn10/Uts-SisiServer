@@ -56,7 +56,7 @@ pada terminal
 Ini akan:
 Membuat container untuk aplikasi Node.js
 Membuat container untuk database MongoDB
-Aplikasi akan berjalan di http://localhost:5000
+Aplikasi akan berjalan di http://localhost:3000
 
 UNTUK LOGIN ADDMIN
 USERNAME:admin1
